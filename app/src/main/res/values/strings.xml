@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheronApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="Cheron_Launcher">CHARON APP</string>
+</resources>
